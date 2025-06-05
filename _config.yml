@@ -151,6 +151,8 @@ paginate: 10
 
 # The base URL of your site
 baseurl: ""
+# The favicon of your site
+favicon: "/assets/icon/idea.ico"
 
 # ------------ The following options are not recommended to be modified ------------------
 
